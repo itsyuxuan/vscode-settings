@@ -1,6 +1,6 @@
 {
   "recommendations": [
-    // my extensions, ofc :P
+    // @antfu's extensions
     "antfu.browse-lite",
     "antfu.iconify",
     "antfu.slidev",
@@ -14,7 +14,8 @@
     "antfu.theme-vitesse",
     "file-icons.file-icons",
     "sainnhe.gruvbox-material",
-
+    "evan-buss.font-switcher",
+    
     // life savers!
     "dbaeumer.vscode-eslint",
     "Vue.volar",
