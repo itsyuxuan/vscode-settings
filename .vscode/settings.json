@@ -4,7 +4,7 @@
   "workbench.productIconTheme": "icons-carbon",
   "workbench.iconTheme": "file-icons",
   "workbench.fontAliasing": "antialiased",
-  "editor.fontFamily": "Hack, Input Mono, Menlo, JetBrains Mono, SF Mono, Fira Code",
+  "editor.fontFamily": "Fira Code, SF Mono, Menlo, JetBrains Mono, Hack, Input Mono",
   "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
   // Editor
   "editor.accessibilitySupport": "off",
@@ -246,6 +246,8 @@
   "terminal.integrated.fontFamily": "Hack Nerd Font",
   "editor.minimap.enabled": false,
   "editor.fontSize": 13.5,
+  "workbench.colorTheme": "SynthWave '84",
   "window.zoomLevel": 1,
-  "workbench.colorTheme": "Material Theme Palenight"
+  "vite.browserType": "system",
+  "GitCommitPlugin.MaxSubjectWords": 50
 }
