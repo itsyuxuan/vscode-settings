@@ -109,12 +109,6 @@
     "jsonc",
     "json5"
   ],
-  "github.copilot.enable": {
-    "*": true,
-    "markdown": true,
-    "plaintext": false,
-    "yaml": false
-  },
   "cSpell.allowCompoundWords": true,
   "cSpell.language": "en,en-US",
   "css.lint.hexColorLength": "ignore",
@@ -168,12 +162,10 @@
   "i18n-ally.ignoredLocales": [],
   "iconify.annotations": true,
   "iconify.inplace": true,
-  "svg.preview.mode": "svg",
   "volar.autoCompleteRefs": false,
   "volar.codeLens.pugTools": false,
   "volar.codeLens.scriptSetupTools": true,
   "volar.completion.preferredTagNameCase": "pascal",
-  "windicss.enableCodeFolding": false,
   "prettier.enable": false, // I only use Prettier for manually formatting
   "prettier.printWidth": 200,
   "prettier.semi": false,
@@ -182,9 +174,9 @@
   "gruvboxMaterial.colorfulSyntax": true,
   "gruvboxMaterial.italicKeywords": true,
   "gruvboxMaterial.diagnosticTextBackgroundOpacity": "50%",
-  "vite.browserType": "system",
   "GitCommitPlugin.MaxSubjectWords": 50,
   "volar.icon.preview": false,
+  "vite.browserType": "system",
   "code-runner.showRunIconInEditorTitleMenu": false,
   // File Nesting
   // this might not be up to date with the repo, please check yourself

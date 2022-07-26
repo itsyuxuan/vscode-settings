@@ -12,8 +12,16 @@
     // themes & icons
     "antfu.icons-carbon",
     "antfu.theme-vitesse",
-    "teabyii.ayu",
+    "sainnhe.gruvbox-material",
+    "GitHub.github-vscode-theme",
+    "dracula-theme.theme-dracula",
+    "RobbOwen.synthwave-vscode",
+    "smockle.xcode-default-theme",
+    "zhuangtongfa.material-theme",
+    "iocave.monkey-patch",
+    "file-icons.file-icons",
     "PKief.material-icon-theme",
+    "vscode-icons-team.vscode-icons",
     "sainnhe.gruvbox-material",
     "evan-buss.font-switcher",
     
@@ -24,11 +32,13 @@
     "streetsidesoftware.code-spell-checker",
     "xabikos.JavaScriptSnippets",
     "hollowtree.vue-snippets",
-    "esbenp.prettier-vscode",
+    "fractalbrew.backticks",
 
     // up to you
     "amodio.tsl-problem-matcher",
     "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "redjue.git-commit-plugin",
     "EditorConfig.EditorConfig",
     "GitHub.vscode-pull-request-github",
     "mpontus.tab-cycle",
@@ -37,5 +47,8 @@
     "unional.vscode-sort-package-json",
     "voorjaar.windicss-intellisense",
     "WakaTime.vscode-wakatime",
+    "fractalbrew.backticks",
+    "formulahendry.code-runner",
+    "Tobermory.es6-string-html",
   ]
 }
