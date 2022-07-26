@@ -1,11 +1,14 @@
 {
-  // "workbench.preferredDarkColorTheme": "Vitesse Dark",
-  // "workbench.preferredLightColorTheme": "Vitesse Light",
+  "workbench.colorTheme": "Gruvbox Material Dark",
+  "workbench.preferredLightColorTheme": "Gruvbox Material Dark",
+  "workbench.preferredDarkColorTheme": "Gruvbox Material Dark",
   "workbench.productIconTheme": "icons-carbon",
   "workbench.iconTheme": "file-icons",
   "workbench.fontAliasing": "antialiased",
-  "editor.fontFamily": "MonoLisa, IBM Plex Mono, Fira Code, Input, Roboto Mono, Menlo, SF Mono, Cousine, Dank Mono, JetBrains Mono",
+  "editor.fontFamily": "Input, Roboto Mono, Fira Code, IBM Plex Mono, MonoLisa, Menlo, SF Mono, Cousine, Dank Mono, JetBrains Mono",
   "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
+  "editor.fontSize": 13.5,
+  "security.workspace.trust.enabled": false,
   // Editor
   "editor.accessibilitySupport": "off",
   "editor.cursorSmoothCaretAnimation": true,
@@ -18,6 +21,7 @@
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
   "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.minimap.enabled": false,
   "editor.codeActionsOnSave": {
     "source.fixAll": false,
     "source.fixAll.eslint": true, // this allows ESLint to auto fix on save
@@ -29,6 +33,7 @@
   "window.dialogStyle": "custom",
   "window.nativeTabs": true, // this is great, macOS only
   "window.titleBarStyle": "custom",
+  "window.zoomLevel": 1,
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.tabCloseButton": "left",
@@ -53,6 +58,7 @@
   "terminal.integrated.fontWeight": "300",
   "terminal.integrated.persistentSessionReviveProcess": "never",
   "terminal.integrated.tabs.enabled": true,
+  "terminal.integrated.fontFamily": "Hack Nerd Font",
   "scm.diffDecorationsGutterWidth": 2,
   "debug.onTaskErrors": "debugAnyway",
   "diffEditor.ignoreTrimWhitespace": false,
@@ -125,10 +131,7 @@
       "history": false,
       "remote": false
     },
-    "editorGroup": {
-      "blame": true,
-      "compare": false
-    },
+    "editorGroup": false,
     "editorTab": {
       "clipboard": true,
       "compare": true,
@@ -144,12 +147,12 @@
     "scm": {
       "authors": true
     },
+    "scmGroupInline": {
+      "stash": true
+    },
     "scmGroup": {
       "compare": true,
       "openClose": true,
-      "stash": true
-    },
-    "scmGroupInline": {
       "stash": true
     },
     "scmItem": {
@@ -175,6 +178,14 @@
   "prettier.printWidth": 200,
   "prettier.semi": false,
   "prettier.singleQuote": true,
+  "gruvboxMaterial.darkContrast": "hard",
+  "gruvboxMaterial.colorfulSyntax": true,
+  "gruvboxMaterial.italicKeywords": true,
+  "gruvboxMaterial.diagnosticTextBackgroundOpacity": "50%",
+  "vite.browserType": "system",
+  "GitCommitPlugin.MaxSubjectWords": 50,
+  "volar.icon.preview": false,
+  "code-runner.showRunIconInEditorTitleMenu": false,
   // File Nesting
   // this might not be up to date with the repo, please check yourself
   // updated 2022-07-12 03:35
@@ -242,12 +253,4 @@
     "vite.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .envrc, .htmlnanorc*, .lighthouserc.*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, cssnano.config.*, cypress.*, env.d.ts, formkit.config.*, formulate.config.*, htmlnanorc.*, jasmine.*, jest.config.*, jsconfig.*, karma*, lighthouserc.*, playwright.config.*, postcss.config.*, puppeteer.config.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*",
     "vue.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .envrc, .htmlnanorc*, .lighthouserc.*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, cssnano.config.*, cypress.*, env.d.ts, formkit.config.*, formulate.config.*, htmlnanorc.*, jasmine.*, jest.config.*, jsconfig.*, karma*, lighthouserc.*, playwright.config.*, postcss.config.*, puppeteer.config.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*"
   },
-  "security.workspace.trust.enabled": false,
-  "terminal.integrated.fontFamily": "Hack Nerd Font",
-  "editor.minimap.enabled": false,
-  "editor.fontSize": 13.5,
-  "workbench.colorTheme": "GitHub Dark",
-  "window.zoomLevel": 1,
-  "vite.browserType": "system",
-  "GitCommitPlugin.MaxSubjectWords": 50
 }
