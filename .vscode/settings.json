@@ -171,6 +171,7 @@
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "gruvboxMaterial.darkContrast": "hard",
+  "gruvboxMaterial.darkPalette": "mix",
   "gruvboxMaterial.colorfulSyntax": true,
   "gruvboxMaterial.italicKeywords": true,
   "gruvboxMaterial.diagnosticTextBackgroundOpacity": "50%",
