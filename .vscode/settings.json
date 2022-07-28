@@ -170,7 +170,6 @@
   "prettier.printWidth": 200,
   "prettier.semi": false,
   "prettier.singleQuote": true,
-  "gruvboxMaterial.darkContrast": "hard",
   "gruvboxMaterial.darkPalette": "mix",
   "gruvboxMaterial.colorfulSyntax": true,
   "gruvboxMaterial.italicKeywords": true,
