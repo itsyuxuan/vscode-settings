@@ -24,7 +24,7 @@
     "vscode-icons-team.vscode-icons",
     "sainnhe.gruvbox-material",
     "evan-buss.font-switcher",
-    
+
     // life savers!
     "dbaeumer.vscode-eslint",
     "Vue.volar",
@@ -50,5 +50,6 @@
     "fractalbrew.backticks",
     "formulahendry.code-runner",
     "Tobermory.es6-string-html",
+    "WakaTime.vscode-wakatime"
   ]
 }
