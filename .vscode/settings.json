@@ -95,7 +95,7 @@
   "eslint.validate": ["javascript", "typescript", "javascriptreact", "typescriptreact", "vue", "html", "markdown", "json", "jsonc", "json5"],
   "cSpell.allowCompoundWords": true,
   "cSpell.language": "en,en-US",
-  "cSpell.words": ["yuxuan", "itsyuxuan", "antfu"],
+  "cSpell.userWords": ["antfu", "Avenir", "itsyuxuan", "vitegil", "yuxuan"],
   "css.lint.hexColorLength": "ignore",
   "githubIssues.workingIssueFormatScm": "#${issueNumberLabel}",
   "githubPullRequests.fileListLayout": "tree",
@@ -159,9 +159,9 @@
   "gruvboxMaterial.colorfulSyntax": true,
   "gruvboxMaterial.italicKeywords": true,
   "gruvboxMaterial.diagnosticTextBackgroundOpacity": "50%",
+  "GitCommitPlugin.ShowEmoji": false,
   "GitCommitPlugin.MaxSubjectWords": 50,
   "volar.icon.preview": false,
-  "vite.browserType": "system",
   "code-runner.showRunIconInEditorTitleMenu": false,
   // File Nesting
   // this might not be up to date with the repo, please check yourself
