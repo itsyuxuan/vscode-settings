@@ -172,6 +172,7 @@
   "GitCommitPlugin.MaxSubjectWords": 50,
   "volar.icon.preview": false,
   "code-runner.showRunIconInEditorTitleMenu": false,
+  "markdown-preview-github-styles.colorTheme": "light",
   // File Nesting
   // this might not be up to date with the repo, please check yourself
   // updated 2022-08-12 08:33
